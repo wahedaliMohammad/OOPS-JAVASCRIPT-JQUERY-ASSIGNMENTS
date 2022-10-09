@@ -1,0 +1,11 @@
+step 1: start
+step 2: input nNum from the user and declare a variable called rem
+step 3: Read nNum
+step 4: initialise rev=0
+step 5: While nNum is greater than or equal to 1 go to step 6
+step 6: calculate rem = nNum % 10
+step 7: calculate rev = (10 * rev) + rem
+step 8: compute nNum =nNum/10
+step 9: return rev value
+step 10: display the reverse digit,rev
+step 11: end

@@ -1,0 +1,9 @@
+START
+NUMBER age
+DISPLAY “Enter age”
+If age>=18
+DISPLAY "Eligible for Voting "
+ELSE
+DISPLAY “Not Eligible for Voting “
+END IF 
+END
